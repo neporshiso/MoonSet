@@ -1,4 +1,8 @@
-# Moonset - A pygame group project
+# MoonSet - A pygame group project
+
+## Demo
+![MoonSet Demo](/pygame.gif)
+
 
 ## Synopsis
 
